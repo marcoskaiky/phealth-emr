@@ -1,0 +1,24 @@
+===== Prontuário =====
+Número do Prontuário: 1
+Nome do Paciente: sadf
+CPF do Paciente: fasdf
+Peso: 20 kg
+Tipo Sanguíneo: A+
+CID: saf
+---- Dados do Médico ----
+Nome do Médico: asdf
+CRM do Médico: asfasf
+Especialidade: sdfsa
+Número do Consultório: fsaf
+Data da Consulta: 1999-10-25
+---- Evoluções ----
+sfsdf
+---- Prescrição de Medicamentos ----
+sfsafdsa
+---- Prescrição de Materiais ----
+fasfdasdf
+---- Procedimentos ----
+asdfsdaf
+Alergia a Medicamentos: asdfasdfasf
+===============================
+
