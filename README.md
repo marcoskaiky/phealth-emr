@@ -26,7 +26,8 @@ Descreva as evoluções, prescrições de medicamentos, materiais e procedimento
 
 ---
 
-Salvar o Prontuário:
+### Salvar o Prontuário:
+
 Clique no botão Salvar Prontuário.
 
 Se todos os campos estiverem corretos, o sistema salvará os dados no arquivo prontuario.txt, mostrará uma mensagem de sucesso e limpará o formulário.
@@ -35,7 +36,7 @@ Se houver erros (campo vazio, peso inválido ou data errada), uma mensagem de er
 
 ---
 
-Limpar o Formulário:
+### Limpar o Formulário:
 
 Clique no botão Limpar Campos para apagar todos os dados e começar um novo prontuário.
 
