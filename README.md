@@ -1,4 +1,4 @@
-## Aluno Marcos Kaiky RA 14610
+## Aluno Marcos Kaiky RA 14610 [![Tecnologias](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
  Tutorial/Anotações do projeto.
 
