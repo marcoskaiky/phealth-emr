@@ -2,6 +2,8 @@
 
 [![Tecnologias](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
+# Passei o dia nesse trem, qualquer dúvida sobre o projeto estou a disposição.
+
  Tutorial/Anotações do projeto.
 
 ### Como usar o sistema?
